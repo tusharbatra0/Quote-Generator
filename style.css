@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+body{
+    display: flex;
+    background-color: #f43543;
+    align-items: center;
+    justify-content: center;
+}
+#heropart{
+    margin-top: 100px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    display: flex;
+    color: white ;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#getquote{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding: 15px;
+    background-color: white;
+    color: #f43543;
+    border: 0px;
+    border-radius: 19px;
+}
